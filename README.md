@@ -1,4 +1,4 @@
-# The Developer Arena project
+# The Developers Arena project
 
 * Build 10+ frontend projects.
 * modern CSS Grid and Flexbox designs
